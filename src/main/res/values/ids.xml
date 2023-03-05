@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="edtNumber1" type="id">edtNumber1</item>
+    <item name="edtNumber2" type="id">edtNumber2</item>
+    <item name="btnPlus" type="id">btnPlus</item>
+    <item name="btnMinus" type="id">btnMinus</item>
+    <item name="btnMultiply" type="id">btnMultiply</item>
+    <item name="btnDivide" type="id">btnDivide</item>
+</resources>
